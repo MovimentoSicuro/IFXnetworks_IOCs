@@ -320,3 +320,6 @@ fd6ade6040d775af6ddf8c835a1f7b32bb17ccaf5ca227af55df9accfc75329d
 185.121.120.245 
 153.122.55.69
 185.222.57.174
+
+Note:
+Estos indicadores de compromisos se generan mediante la transmisiòn de difentes empresas privadas que comparten imformaciòn del ataque a IFX_Networks y por tal motivo se mantiene en el anomimato el nombre de las empresas y contactos que suministran la informaciòn.
